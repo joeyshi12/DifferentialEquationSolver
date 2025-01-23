@@ -1,5 +1,8 @@
 # diff-eq-solver
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/joeyshi12/diff-eq-solver)
+
+
 ![tests.yml](https://github.com/joeyshi12/diff-eq-solver/actions/workflows/tests.yml/badge.svg)
 ![python-publish.yml](https://github.com/joeyshi12/json-data-type-transcompiler/actions/workflows/python-publish.yml/badge.svg)
 ![PyPI](https://img.shields.io/pypi/v/diffeq-solver-tk)
@@ -21,7 +24,6 @@ pip3 install diffeq-solver-tk
 ```
 
 ## Usage
-
 The GUI can be started with `detk`. Once you open the solver, choose a differential equation type through the
 navigation bar above and enter the parameters for your equation. Clicking "Solve" will run the solving algorithm
 for your equation and generate a static plot in the right window. After a solution is prepared, you can export the
